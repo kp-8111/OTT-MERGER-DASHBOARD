@@ -64,6 +64,9 @@ The project uses merged datasets from Jotstar & Liocinema, including:
 - ✔ `content_id` (in Merged_Content_Consumption) → `content_id` (in Merged_Contents)
 - ✔ `user_id` (in Merged_Content_Consumption) → `user_id` (in Merged_Subscribers)
 
+**Data Model Diagram:**
+![Data Model](https://github.com/kp-8111/OTT-MERGER-DASHBOARD/blob/main/Data%20Model.png)
+
 ---
 
 ## 📊 Dashboard Highlights
@@ -99,9 +102,10 @@ The project uses merged datasets from Jotstar & Liocinema, including:
 ---
 
 ## 🔗 Project Links
-- 📊 Live Dashboard: [Insert Link(https://app.powerbi.com/view?r=eyJrIjoiNWE2NmZkODQtNjJhYy00MDQwLWI5YWQtYTc0M2RmZGRmZjM5IiwidCI6IjAwOTMxZjJiLTdiY2EtNDFhZi1hMzFjLTk5ZTkwM2NkYWFlMCJ9&pageName=032190c9892612dace58)]
-- 📁 GitHub Repository: [Insert Link]
-- 🖥️ Project Presentation: [Insert Link]
+- 📊 Live Dashboard: [Live Dashboard](https://project.novypro.com/yn9QQn)
+- 🖥️ Project Presentation: [LinkedIn Post](https://www.linkedin.com/posts/kp8111_evinsights-activity-7295366671194583040-vDLy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBUMiIBbw-0vbmKJ3oXG_HRfnHXMUiO2fc)
+
 
 ---
 
+🔹 This README provides everything someone needs—from understanding the project goals to using the dashboard. Let me know if you want any refinements! 🚀
