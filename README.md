@@ -103,7 +103,7 @@ The project uses merged datasets from Jotstar & Liocinema, including:
 
 ## 🔗 Project Links
 - 📊 Live Dashboard: [Live Dashboard](https://project.novypro.com/yn9QQn)
-- 🖥️ Project Presentation: [LinkedIn Post](https://www.linkedin.com/posts/kp8111_evinsights-activity-7295366671194583040-vDLy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBUMiIBbw-0vbmKJ3oXG_HRfnHXMUiO2fc)
+- 🖥️ Project Presentation: [LinkedIn Post](https://www.linkedin.com/posts/kp8111_codebasics-codebasicsresumeprojectchallenge-activity-7305526862317826048-rigU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBUMiIBbw-0vbmKJ3oXG_HRfnHXMUiO2fc)
 
 
 ---
