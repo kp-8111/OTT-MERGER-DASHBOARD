@@ -99,7 +99,7 @@ The project uses merged datasets from Jotstar & Liocinema, including:
 ---
 
 ## 🔗 Project Links
-- 📊 Live Dashboard: [[Insert Link](https://app.powerbi.com/view?r=eyJrIjoiNWE2NmZkODQtNjJhYy00MDQwLWI5YWQtYTc0M2RmZGRmZjM5IiwidCI6IjAwOTMxZjJiLTdiY2EtNDFhZi1hMzFjLTk5ZTkwM2NkYWFlMCJ9&pageName=032190c9892612dace58)]
+- 📊 Live Dashboard: [Insert Link](https://app.powerbi.com/view?r=eyJrIjoiNWE2NmZkODQtNjJhYy00MDQwLWI5YWQtYTc0M2RmZGRmZjM5IiwidCI6IjAwOTMxZjJiLTdiY2EtNDFhZi1hMzFjLTk5ZTkwM2NkYWFlMCJ9&pageName=032190c9892612dace58)]
 - 📁 GitHub Repository: [Insert Link]
 - 🖥️ Project Presentation: [Insert Link]
 
